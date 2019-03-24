@@ -87,3 +87,10 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+#frontend
+work/magamongo/front_end/node_modules/
+work/magamongo/front_end/amplify/
+work/magamongo/front_end/src/aws-export.js
+work/magamongo/front_end/.amplifyrc
+work/magamongo/front_end/build/
